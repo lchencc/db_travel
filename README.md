@@ -1,7 +1,7 @@
 ## Atlanta Travel Reservation System
 
 #### DESCRIPTION
-We designed and implemented a online travel reservation system allowing 10 different kinds of users to do operations based on their authorities in MySQL.
+We designed and implemented an online travel reservation system allowing 10 different kinds of users to do operations based on their authority in MySQL.
 
 #### PROJECT PHASES
 
